@@ -1,5 +1,5 @@
 {
-  "name": "all-the-news-thats-fit-to-scrape",
+  "name": "NewScraper",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lizschuering/all-the-news-thats-fit-to-scrape.git"
+    "url": "git+https://github.com/BradenFlory/newScraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lizschuering/all-the-news-thats-fit-to-scrape/issues"
+    "url": "https://github.com/BradenFlory/newScraper.git/issues"
   },
-  "homepage": "https://github.com/lizschuering/all-the-news-thats-fit-to-scrape#readme",
+  "homepage": "https://github.com/BradenFlory/newScraper.git#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
